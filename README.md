@@ -1,2 +1,2 @@
-# Projetos-Arquitetura-de-Sistemas-Distribu-dos
+# Projetos-Arquitetura-de-Sistemas-Distribuidos
 Projetos 7 semestre
